@@ -127,6 +127,9 @@ https://habr.com/ru/company/raiffeisenbank/blog/354122/
 - Solidity gas optimization - small int types and structs - 2018
 https://danielszego.blogspot.com/2018/01/solidity-gas-optimization-small-int.html
 
+- 8 Ways of Reducing the Gas Consumption of your Smart Contracts - 2018
+https://medium.com/coinmonks/8-ways-of-reducing-the-gas-consumption-of-your-smart-contracts-9a506b339c0a
+
 ### III. Q&A / StackOverflow
 
 - How to write an optimized (gas-cost) smart contract? - StackOverflow
