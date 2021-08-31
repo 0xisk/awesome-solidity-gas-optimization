@@ -123,3 +123,31 @@ https://habr.com/ru/company/raiffeisenbank/blog/354122/
 
 - Solidity gas optimization - small int types and structs - 2018
 https://danielszego.blogspot.com/2018/01/solidity-gas-optimization-small-int.html
+
+### Q&A / StackOverflow
+
+- How to write an optimized (gas-cost) smart contract? - StackOverflow
+https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract
+
+- Why does uint8 cost more gas than uint256? - StackOverflow
+https://ethereum.stackexchange.com/questions/3067/why-does-uint8-cost-more-gas-than-uint256
+
+- Use string type or bytes32? - StackOverflow
+https://ethereum.stackexchange.com/questions/11556/use-string-type-or-bytes32
+
+- Integer types; createPerson function alternatives; Gas; Optimization; View v Pure functions; Non-iterable nature of mappings - 2020
+https://forum.ivanontech.com/t/integer-types-createperson-function-alternatives-gas-optimization-view-v-pure-functions-non-iterable-nature-of-mappings-by-jon-m/12169
+
+- What’s the best way to optimize the bytecode size of a contract? - 2019
+https://forum.openzeppelin.com/t/whats-the-best-way-to-optimize-the-bytecode-size-of-a-contract/981
+
+- Gas optimization for my smart contract? - 2017
+https://ethereum.stackexchange.com/questions/13472/gas-optimization-for-my-smart-contract
+
+### Video resources / YouTube
+
+- Three tips for optimizing gas - 2019
+https://blockbites.io/bites/bite2.html
+
+- DAPPCON 2018: Solidity Dapp Optimization Gonçalo Sá (ConsenSys Diligence) - 2018
+https://www.youtube.com/watch?v=qwBkeJ84d2g&t=68s
