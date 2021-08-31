@@ -1,4 +1,4 @@
-# Awesome Soliidty Gas-Optimization ⛽ 
+# Awesome Solidity Gas-Optimization ⛽ 
 (Inspired from this issue https://github.com/iskanderandrews/troubleshooting/issues/38)
 
 <p align='center'>
@@ -87,7 +87,7 @@ https://link.springer.com/chapter/10.1007/978-3-319-65000-5_8
 http://article.nadiapub.com/IJGDC/vol10_no12/6.pdf
 
 
-###  Medium / Articles
+### II. Medium / Articles
 
 - How to Save Gas in your Ethereum Smart Contracts - 2021
 https://marduc812.com/2021/04/08/how-to-save-gas-in-your-ethereum-smart-contracts/
@@ -127,7 +127,7 @@ https://habr.com/ru/company/raiffeisenbank/blog/354122/
 - Solidity gas optimization - small int types and structs - 2018
 https://danielszego.blogspot.com/2018/01/solidity-gas-optimization-small-int.html
 
-### Q&A / StackOverflow
+### III. Q&A / StackOverflow
 
 - How to write an optimized (gas-cost) smart contract? - StackOverflow
 https://ethereum.stackexchange.com/questions/28813/how-to-write-an-optimized-gas-cost-smart-contract
@@ -147,7 +147,7 @@ https://forum.openzeppelin.com/t/whats-the-best-way-to-optimize-the-bytecode-siz
 - Gas optimization for my smart contract? - 2017
 https://ethereum.stackexchange.com/questions/13472/gas-optimization-for-my-smart-contract
 
-### Video resources / YouTube
+### IV. Video resources / YouTube
 
 - Three tips for optimizing gas - 2019
 https://blockbites.io/bites/bite2.html
