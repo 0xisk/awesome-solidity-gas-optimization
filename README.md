@@ -6,11 +6,14 @@
 </p>
 
 ### Resources 👇
-I. [Research Papers]()
-II. [Medium / Articles]()
-III. [Q&A / StackOverflow]()
-IV. [Video resources / YouTube]()
 
+I. [Research Papers](https://github.com/iskanderandrews/awesome-soliidty-gas-optimization#i-research-papers)
+
+II. [Medium / Articles](https://github.com/iskanderandrews/awesome-soliidty-gas-optimization#medium--articles)
+
+III. [Q&A / StackOverflow](https://github.com/iskanderandrews/awesome-soliidty-gas-optimization#qa--stackoverflow)
+
+IV. [Video resources / YouTube](https://github.com/iskanderandrews/awesome-soliidty-gas-optimization#video-resources--youtube)
 
 ### I. Research Papers
 
