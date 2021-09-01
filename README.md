@@ -22,8 +22,8 @@
 <p align='center'>
     <img src='https://user-images.githubusercontent.com/36774944/131478728-e00db522-424c-4f3f-8f26-753595057094.png' alt='screenshot' width="500" height="300" />
 </p>  
-  <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
-  
+<!--   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
+   -->
 </div>
 
 ### Resources 👇
