@@ -29,6 +29,7 @@
 ### Resources 👇
 
 I. [Research Papers](https://github.com/iskanderandrews/awesome-soliidty-gas-optimization#i-research-papers)
+  - [Ethereum EVM Research Papers]()
 
 II. [Medium / Articles](https://github.com/iskanderandrews/awesome-soliidty-gas-optimization#medium--articles)
 
@@ -106,6 +107,10 @@ https://link.springer.com/chapter/10.1007/978-3-319-65000-5_8
 
 - Saving Deployment Costs of Smart Contracts by Eliminating Gaswasteful Patterns - 2017
 http://article.nadiapub.com/IJGDC/vol10_no12/6.pdf
+
+#### Ethereum EVM Research Papers
+- EVM Opcode Gas Costs
+https://github.com/djrtwo/evm-opcode-gas-costs
 
 
 ### II. Medium / Articles
