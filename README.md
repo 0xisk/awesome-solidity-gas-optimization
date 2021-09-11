@@ -29,7 +29,7 @@
 ### Resources 👇
 
 I. [Research Papers](https://github.com/iskanderandrews/awesome-soliidty-gas-optimization#i-research-papers)
-  - [Ethereum EVM Research Papers]()
+  - [Ethereum EVM Research Papers](https://github.com/iskanderandrews/awesome-solidity-gas-optimization/blob/master/README.md#ethereum-evm-research-papers)
 
 II. [Medium / Articles](https://github.com/iskanderandrews/awesome-soliidty-gas-optimization#medium--articles)
 
