@@ -178,6 +178,9 @@ https://ethereum.stackexchange.com/questions/13472/gas-optimization-for-my-smart
 
 ### IV. Video resources / YouTube
 
+- Storage, Memory and Calldata | Solidity 0.8
+https://www.youtube.com/watch?v=wOCIhzAuhgs
+
 - Three tips for optimizing gas - 2019
 https://blockbites.io/bites/bite2.html
 
