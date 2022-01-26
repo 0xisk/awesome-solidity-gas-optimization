@@ -115,6 +115,10 @@ https://github.com/djrtwo/evm-opcode-gas-costs
 
 ### II. Medium / Articles
 
+- How EIP2535 Diamonds Reduces Gas Costs for Smart Contract Systems - 2022 
+(Thanks to @mudgen, https://github.com/iskdrews/awesome-solidity-gas-optimization/issues/1)
+https://eip2535diamonds.substack.com/p/how-eip2535-diamonds-reduces-gas
+
 - How to Save Gas in your Ethereum Smart Contracts - 2021
 https://marduc812.com/2021/04/08/how-to-save-gas-in-your-ethereum-smart-contracts/
 
