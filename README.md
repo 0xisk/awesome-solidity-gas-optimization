@@ -115,6 +115,9 @@ https://github.com/djrtwo/evm-opcode-gas-costs
 
 ### II. Medium / Articles
 
+- Basics of Smart Contract Gas Optimization with Solidity - 2022 
+https://eip2535diamonds.substack.com/p/smart-contract-gas-optimization-with
+
 - How EIP2535 Diamonds Reduces Gas Costs for Smart Contract Systems - 2022 
 (Thanks to @mudgen, https://github.com/iskdrews/awesome-solidity-gas-optimization/issues/1)
 https://eip2535diamonds.substack.com/p/how-eip2535-diamonds-reduces-gas
