@@ -143,6 +143,9 @@ https://dlt-repo.net/storage-vs-memory-vs-stack-in-solidity-ethereum/
 - 10 solidity code patterns that optimize the gas utilization of Ethereum smart contracts - 2019
 https://blog.krybot.com/a?ID=01600-56f06856-e060-4787-93a3-0ffb088cd88f
 
+- How to reduce gas cost in Solidity - 2019
+https://medium.com/layerx/how-to-reduce-gas-cost-in-solidity-f2e5321e0395
+
 - Gas Optimization in Solidity Part I: Variables - 2019 https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde
 
 - How to optimize gas cost in a Solidity smart contract? 6 tips - 2019
