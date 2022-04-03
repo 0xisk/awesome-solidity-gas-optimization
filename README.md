@@ -215,3 +215,6 @@ https://www.youtube.com/watch?v=qwBkeJ84d2g&t=68s
 - Less Gas, More Fun: Optimising Smart Contracts through Yul by Christian Reitwiessner (Devcon4) - 2018
 https://www.youtube.com/watch?v=VH4MgZDyZJU
 
+- Gas optimization in solidity: 10tips  by Julien Klepatch (EatTheBlocks) - 2019
+https://www.youtube.com/watch?v=PYilP2bjtwc
+
