@@ -166,6 +166,9 @@ https://danielszego.blogspot.com/2018/01/solidity-gas-optimization-small-int.htm
 - 8 Ways of Reducing the Gas Consumption of your Smart Contracts - 2018
 https://medium.com/coinmonks/8-ways-of-reducing-the-gas-consumption-of-your-smart-contracts-9a506b339c0a
 
+- How to Reduce Solidity Gas Costs Full Guide - 2022
+https://moralis.io/how-to-reduce-solidity-gas-costs-full-guide/
+
 ### III. Q&A / StackOverflow
 
 - How to write an optimized (gas-cost) smart contract? - StackOverflow
@@ -214,4 +217,7 @@ https://www.youtube.com/watch?v=qwBkeJ84d2g&t=68s
 
 - Less Gas, More Fun: Optimising Smart Contracts through Yul by Christian Reitwiessner (Devcon4) - 2018
 https://www.youtube.com/watch?v=VH4MgZDyZJU
+
+- Gas optimization in solidity: 10tips  by Julien Klepatch (EatTheBlocks) - 2019
+https://www.youtube.com/watch?v=PYilP2bjtwc
 
