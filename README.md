@@ -169,6 +169,9 @@ https://medium.com/coinmonks/8-ways-of-reducing-the-gas-consumption-of-your-smar
 - How to Reduce Solidity Gas Costs Full Guide - 2022
 https://moralis.io/how-to-reduce-solidity-gas-costs-full-guide/
 
+- A Collection of Gas Optimisation Tricks - 2022
+https://forum.openzeppelin.com/t/a-collection-of-gas-optimisation-tricks/19966
+
 ### III. Q&A / StackOverflow
 
 - How to write an optimized (gas-cost) smart contract? - StackOverflow
