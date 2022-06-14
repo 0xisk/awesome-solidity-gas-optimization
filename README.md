@@ -37,6 +37,8 @@ III. [Q&A / StackOverflow](https://github.com/iskanderandrews/awesome-soliidty-g
 
 IV. [Video resources / YouTube](https://github.com/iskanderandrews/awesome-soliidty-gas-optimization#video-resources--youtube)
 
+V. [Smart-Contract](https://github.com/iskanderandrews/awesome-soliidty-gas-optimization#smart-contract)
+
 ### I. Research Papers
 
 - MultiCall: A Transaction-batching Interpreter for Ethereum - 2021
@@ -225,4 +227,8 @@ https://www.youtube.com/watch?v=VH4MgZDyZJU
 
 - Gas optimization in solidity: 10tips  by Julien Klepatch (EatTheBlocks) - 2019
 https://www.youtube.com/watch?v=PYilP2bjtwc
+
+### V. Smart-Contracts:
+- Playpen: is a set of modern, gas-optimized staking pool contracts - 2022
+https://github.com/ZeframLou/playpen
 
