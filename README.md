@@ -174,6 +174,9 @@ https://moralis.io/how-to-reduce-solidity-gas-costs-full-guide/
 - A Collection of Gas Optimisation Tricks - 2022
 https://forum.openzeppelin.com/t/a-collection-of-gas-optimisation-tricks/19966
 
+- Solidity Gas Optimizations Cheat Sheet - 2022
+https://0xmacro.com/blog/solidity-gas-optimizations-cheat-sheet/
+
 ### III. Q&A / StackOverflow
 
 - How to write an optimized (gas-cost) smart contract? - StackOverflow
