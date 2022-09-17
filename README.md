@@ -198,6 +198,10 @@ https://forum.openzeppelin.com/t/whats-the-best-way-to-optimize-the-bytecode-siz
 https://ethereum.stackexchange.com/questions/13472/gas-optimization-for-my-smart-contract
 
 ### IV. Video resources / YouTube
+
+- EVM Basics — Macro Hackathons - 2022
+https://www.youtube.com/watch?v=LNU4JLo_KAA
+
 - Gas Golf | Solidity 0.8 - 2022
 https://www.youtube.com/watch?v=4r20M9Fr8lY
 
