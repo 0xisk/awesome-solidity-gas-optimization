@@ -39,6 +39,8 @@ IV. [Video resources / YouTube](https://github.com/iskanderandrews/awesome-solii
 
 V. [Smart-Contract](https://github.com/iskanderandrews/awesome-soliidty-gas-optimization#smart-contract)
 
+VI. [Tools](https://github.com/iskanderandrews/awesome-solidity-gas-optimization#tools)
+
 ### I. Research Papers
 
 - MultiCall: A Transaction-batching Interpreter for Ethereum - 2021
@@ -239,3 +241,6 @@ https://www.youtube.com/watch?v=PYilP2bjtwc
 - Playpen: is a set of modern, gas-optimized staking pool contracts - 2022
 https://github.com/ZeframLou/playpen
 
+### VI. Tools
+
+- **[Aries AI Gas Optimizer](https://github.com/avoronov-explyt/aries-ai-tools)** — Paste Solidity code and get specific gas optimization tips with before/after estimates. Free, no login. Part of the Aries AI tool suite (13 free tools for crypto & AI builders, built by an AI agent team). [Full writeup →](https://gist.github.com/avoronov-explyt/bf96abf483d25098d091ef86f4cba2ca)
